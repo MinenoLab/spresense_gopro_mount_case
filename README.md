@@ -1,2 +1,2 @@
-# spresense_gpro_mount_case
+# spresense_gopro_mount_case
 静岡大学 峰野研究室で運用しているPiNodeで使用するSpresenseカメラを固定するケース
